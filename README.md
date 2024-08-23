@@ -21,6 +21,9 @@ strategies accordingly. The model will also aid in analyzing demand dynamics in 
 ### General Information about the Project:
 This project involves building a multiple linear regression model to predict the demand for shared bikes. The goal is to help BoomBikes, a US-based bike-sharing provider, understand the key factors influencing bike demand and to assist in formulating a strategic business plan post-pandemic for future growth.
 
+### Problem Statement:
+Develop a multiple linear regression model to predict the demand for shared bikes using the provided independent variables. This model will help BoomBikes understand the key factors influencing bike demand and optimize their business strategy post-pandemic and recover from the revenue declines caused by the pandemic.
+
 ### Project Background:
 BoomBikes, a US bike-sharing provider, has recently faced significant revenue declines due to the ongoing COVID-19 pandemic. The challenging market conditions 
 have made it difficult for the company to maintain operations. To swiftly boost their revenue, once the lockdown ends and the economy recovers, BoomBikes is 
