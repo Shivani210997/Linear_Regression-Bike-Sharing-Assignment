@@ -8,6 +8,7 @@ strategies accordingly. The model will also aid in analyzing demand dynamics in 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
+* [Recommendations](#recommendations)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
@@ -58,6 +59,9 @@ This dataset captures daily bike demand across the American market, along with f
    Summary: Statistical computations and models for Python
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
+## Recommendations:
+
 
 ## Conclusions:
 - Conclusion 1 from the analysis
