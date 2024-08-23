@@ -68,8 +68,7 @@ This dataset captures daily bike demand across the American market, along with f
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Acknowledgements:
-- This project was inspired by UpGrad IIITB Programme, as a Assignment for the EPGP in Machine Learning and Artificial Intelligence course
-- References if any...
+- This project was inspired by UpGrad IIITB Programme, as a Assignment for the EPGP in Machine Learning and Artificial Intelligence course.
 - This project was based on building Multiple Linear Regression Model.
 
 ## Contact:
