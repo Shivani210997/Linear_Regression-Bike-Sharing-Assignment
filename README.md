@@ -27,11 +27,18 @@ have made it difficult for the company to maintain operations. To swiftly boost 
 developing a strategic business plan.
 
 ### Business Goal:
-The project aims to solve the problem of predicting the demand for shared bikes, enabling BoomBikes to anticipate customer needs and optimize their operations in a post-pandemic market. This understanding will help the company position itself competitively and increase revenue.
+The project aims to solve the problem of predicting the demand for shared bikes using linear regression model with the available independent variable, enabling BoomBikes to anticipate customer needs and optimize their operations in a post-pandemic market. This understanding will help the company position itself competitively and increase revenue.
 
 ### Dataset that is being used:
 The project uses a dataset collected from various meteorological surveys and consumer behavior studies. 
 This dataset captures daily bike demand across the American market, along with factors influencing this demand, such as weather conditions and user demographics.
+
+#### STEPS:
+STEP 1: 
+STEP 2:
+STEP 3: 
+STEP 4:
+STEP 5:
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
