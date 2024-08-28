@@ -37,11 +37,19 @@ The project uses a dataset collected from various meteorological surveys and con
 This dataset captures daily bike demand across the American market, along with factors influencing this demand, such as weather conditions and user demographics.
 
 #### STEPS:
-STEP 1: 
-STEP 2:
-STEP 3: 
-STEP 4:
-STEP 5:
+STEP 1: Data Understanding and Data Loading.
+STEP 2: Data Pre-processing steps.
+STEP 3: Data encoding and Mapping.
+STEP 4: EDA 
+STEP 5: Dummy Variables Creation.
+STEP 6: Train and Test split.
+STEP 7: Rescaling the Features.
+STEP 8: Feature Selection
+     a) Recurrsive festure elimination (Automated)
+     b) Manual : VIF calculation or p-value
+     c) Hybrid : using both Automated and then Manual.
+STEP 10: Model building.
+STEP 11: Evaluation on the Test data.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -71,13 +79,16 @@ STEP 5:
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Recommendations:
-
+Cutoff/Threshold for p-value and VIF varies in real time scenario, there is no specific limit, however one can use standard threshold as,
+1. p-value : < 0.05
+2. VIF : <= 5
 
 ## Conclusions:
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- The significant variables like temperature, year, windspeed, humidity, weather conditions, and seasons provide a strong basis for predicting and understanding the demand for shared bikes.
+- 'weathersit_LightSnowRain' (-0.252275): This variable is significant, indicating that adverse weather conditions like light snow or rain significantly reduce bike demand.
+- hum (-0.150414): Humidity also has a potential impact on bike demand. Higher humidity levels decrease the likelihood of people using bikes.
+- windspeed (-0.177862): Wind speed negatively impacts bike demand, making it a significant predictor. Higher wind speeds lead to a decrease in bike usage.
+- season_Spring (-0.100797): The season of spring has a negative impact, making it a significant predictor in reducing bike demand compared to other seasons.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
